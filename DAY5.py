@@ -1,0 +1,1 @@
+print("ayush","dhruuvii",5,sep="**")
