@@ -1,7 +1,17 @@
 # 🐍 100 Days of Python — Code With Harry
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD43B&100:306998&height=200&section=header&text=100%20Days%20of%20Python&fontSize=50&animation=fadeIn&fontColor=fff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=306998&height=240&section=header&text=100%20DAYS%20OF%20PYTHON&fontSize=60&animation=fadeIn&fontColor=FFD43B&desc=🚀%20From%20Zero%20to%20Hero%20with%20Code%20With%20Harry&descSize=22&descAlignY=70&descColor=FFFFFF" width="100%" />
+
+  <br><br>
+
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/Animals/Snake.png" alt="Python Snake" width="95" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/Objects/Laptop.png" alt="Laptop" width="95" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/Activities/Trophy.png" alt="Trophy" width="95" />
+  </p>
+  
+  <p align="center"><b>⚡ Code • Debug • Conquer ⚡</b></p>
 </div>
 
 <p align="center">
