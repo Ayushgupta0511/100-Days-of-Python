@@ -1,14 +1,18 @@
 # 🐍 100 Days of Python — Code With Harry
 
 <div align="center">
+  <!-- Premium High-Impact Animated Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=slice&color=306998&height=240&section=header&text=100%20DAYS%20OF%20PYTHON&fontSize=60&animation=fadeIn&fontColor=FFD43B&desc=🚀%20From%20Zero%20to%20Hero%20with%20Code%20With%20Harry&descSize=22&descAlignY=70&descColor=FFFFFF" width="100%" />
 
   <br><br>
 
+  <!-- Ultra-Stable High-Res Google Fluent Emojis -->
   <p align="center">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/Animals/Snake.png" alt="Python Snake" width="95" />
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/Objects/Laptop.png" alt="Laptop" width="95" />
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/Activities/Trophy.png" alt="Trophy" width="95" />
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" alt="Python Snake" width="75" height="75" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" alt="Laptop" width="75" height="75" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" alt="Trophy" width="75" height="75" />
   </p>
   
   <p align="center"><b>⚡ Code • Debug • Conquer ⚡</b></p>
@@ -38,6 +42,7 @@ Welcome to my ultimate Python showcase! This repository documents my **100-day j
 ## 🗺️ Roadmap & Milestones
 
 <div align="center">
+  <!-- Relatable Meme/GIF for starting out -->
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5Z2I0Z3E4ZXg0N2szbW95M3g1NXN3ZXN5Zms0Y280ZXA0d3g0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="450" alt="Coding GIF" />
   <p><i>Actual footage of me on Day 1 vs Day 100</i></p>
 </div>
@@ -100,6 +105,7 @@ Out of the dozens of programs built during this challenge, here are the absolute
 * **Key Libraries:** `requests`, `os`, `time`, `shutil`, `json`
 
 <div align="center">
+  <!-- Relatable Programming Meme -->
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnd0cmN6ODByNXNnbGl1OXk0N3VpMXN6NWhwN3hsc2NpYnZ6dGsxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9KwqNmQ6ax3BMZAtZi/giphy.gif" width="400" alt="Debugging Meme" />
   <p><i>When my code runs on the first try without a single IndentationError</i></p>
 </div>
